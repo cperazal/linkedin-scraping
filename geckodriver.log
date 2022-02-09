@@ -368,3 +368,67 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1644378154457	Marionette	INFO	Stopped listening on port 45505
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644379675969	geckodriver	INFO	Listening on 127.0.0.1:58833
+1644379675976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53301" "-no-remote" "-profile" "/tmp/rust_mozprofileu0FYvs"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1644379678314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu0FYvs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53301/devtools/browser/f05fc4ca-7335-474e-9d4f-0aaafae774f9
+1644379681491	Marionette	INFO	Listening on port 41809
+1644379681613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: https://static-exp1.licdn.com/sc/h/9p3ihn4vh5gt9tis4aqbt9teo, line 2: Error: GoogleOneTapError display: unknown_reason
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4rxy7ufgexzc308yt64hc1a4z, line 6453: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/57uittkgwsj9r78iw5yp3p2lh, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9re75p61t3z0hqaulvejuq6ot, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2g6nu1tuffsefzrnjy5nsjgc1, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/escbym9js6rr6quan0ab3nau3, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8kb9l4hzkpmkrp41o3r5mpbil, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c3sb68o7hb1szgx0l4vol2o8w, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8o26z62gam0v13kyku4bkv54z, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2em23l85am23kuh67p6ctfhd8, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8w96zcomeh907oh3bhcmzocw6, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644380088332	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4rxy7ufgexzc308yt64hc1a4z, line 6453: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/az99h8sv5ntcil4q7e7rptf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/9re75p61t3z0hqaulvejuq6ot, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/escbym9js6rr6quan0ab3nau3, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8kb9l4hzkpmkrp41o3r5mpbil, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/escbym9js6rr6quan0ab3nau3, line 6: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))

@@ -2,6 +2,7 @@ from selenium import webdriver
 from time import sleep
 from selenium.webdriver.common.keys import Keys
 import parameters
+from parsel import Selector
 
 username = parameters.username
 password = parameters.password
@@ -33,3 +34,15 @@ sleep(3)
 
 profiles_links = driver.find_elements_by_xpath("//div[@id='search']//a[1]")
 profiles_links = [profile.get_attribute('href') for profile in profiles_links]
+
+for profile in profiles_links:
+    driver.get(profile)
+    sleep(5)
+
+    sel = Selector(text=driver.page_source)
+
+    name = sel.xpath('//h1/text()').extract_first()
+    job_title = sel.xpath('//*[contains(@class,"text-body-medium break-words")]/text()').extract_first().strip()
+    experience = sel.xpath('//section[@id="ember66"]//ul/li/div/div//span[1]/text()').extract()
+
+driver.quit()
