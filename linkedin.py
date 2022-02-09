@@ -1,9 +1,10 @@
 from selenium import webdriver
 from time import sleep
 from selenium.webdriver.common.keys import Keys
+import parameters
 
-username = ''
-password = ''
+username = parameters.username
+password = parameters.password
 driver = webdriver.Firefox()
 driver.maximize_window()
 sleep(0.5)
@@ -24,7 +25,7 @@ sleep(5)
 driver.get("https://www.google.com/")
 sleep(3)
 search_input = driver.find_element_by_name("q")
-search_input.send_keys('site:linkedin.com/in/ AND "Python developer" AND "Costa Rica"')
+search_input.send_keys(parameters.google_search)
 sleep(1)
 
 search_input.send_keys(Keys.RETURN)
